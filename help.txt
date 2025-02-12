@@ -1,0 +1,15 @@
+Editing: 
+	Open PORTFOLIO folder in VScode
+	Edit the documents and save locally
+	Test edits by opening html document in chrome
+
+Pushing: 
+	open terminal
+	go to (base) y.park@wirelessprv-10-195-47-120 PORTFOLIO
+	git init
+	git add .
+	git commit -m "message" **Write message about the upload**
+	git push origin main
+
+Website: 
+	https://ypark5103.github.io/index.html
