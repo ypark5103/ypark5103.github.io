@@ -5,8 +5,7 @@ Editing:
 
 Pushing: 
 	open terminal
-	go to (base) y.park@wirelessprv-10-195-47-120 PORTFOLIO
-	git init
+	go to Portfolio Folder
 	git add .
 	git commit -m "message" **Write message about the upload**
 	git push origin main
